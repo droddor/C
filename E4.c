@@ -27,4 +27,8 @@ Relative path or complete:
 Relative : ./
 Complete: /documents/dirname
 
+Example:
+
+>>./E4 ./
+
 */
