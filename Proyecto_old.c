@@ -1,4 +1,4 @@
-//PROYECTO BARCOS PUERTO SEVILLA
+//PROYECTO BARCOS PUERTO
 
 //REQUISITOS
     //1 . Se opera en una direccion a la vez. Salida o entrada
