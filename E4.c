@@ -20,9 +20,7 @@ int main(int argc, char *argv[]){
 }
 
 /*
-Execute with arg:
-
-Relative path or complete:
+Execute with arg , relative path or complete:
 
 Relative : ./
 Complete: /documents/dirname
